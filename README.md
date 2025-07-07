@@ -1,2 +1,2 @@
 # name-for-Youtuber
-Игра про имя ютубера
++print("Hello world);
